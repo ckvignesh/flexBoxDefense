@@ -18,11 +18,15 @@ Feel free to contribute to this Repo if you have better solutions. Read [this](.
 
 **Level 1/12:**
 
+![](Pictures/1.png)
+
 tower-group-1
 `justify-content: center;`
 
 ***
 **Level 2/12:**
+
+![](Pictures/2.png)
 
 tower-group-1
 `justify-content: flex-end;` 
@@ -36,6 +40,8 @@ tower-group-3
 ***
 **Level 3/12:**
 
+![](Pictures/3.png)
+
 tower-group-1
 `justify-content: center;`
 
@@ -45,6 +51,8 @@ tower-group-2
 ***
 **Level 4/12:**
 
+![](Pictures/4.png)
+
 tower-group-1
 `align-items: flex-end;`
 
@@ -53,6 +61,8 @@ tower-group-2
 
 ***
 **Level 5/12:**
+
+![](Pictures/5.png)
 
 tower-group-1
 `justify-content: space-around;`
@@ -68,12 +78,16 @@ tower-group-3
 ***
 **Level 6/12:**
 
+![](Pictures/6.png)
+
 tower-group-1
 `align-items: center;`
 `justify-content: space-between;`
 
 ***
 **Level 7/12:**
+
+![](Pictures/7.png)
 
 tower-group-1
 `flex-direction: column;`
@@ -84,6 +98,8 @@ tower-group-2
 ***
 **Level 8/12:**
 
+![](Pictures/8.png)
+
 tower-group-1
 `flex-direction: column;`
 
@@ -93,6 +109,8 @@ tower-group-2
 
 ***
 **Level 9/12:**
+
+![](Pictures/9.png)
 
 tower-group-1
 `justify-content: space-around;`
@@ -105,6 +123,8 @@ tower-group-2
 
 ***
 **Level 10/12:**
+
+![](Pictures/10.png)
 
 tower-group-1
 `justify-content: space-around;`
@@ -121,6 +141,8 @@ tower-2-1
 ***
 **Level 11/12:**
 
+![](Pictures/11.png)
+
 tower-group-1
 `justify-content: space-between;`
 
@@ -135,6 +157,8 @@ tower-1-4
 
 ***
 **Level 12/12:**
+
+![](Pictures/12.png)
 
 tower-group-1
 `justify-content: space-between;`
@@ -159,5 +183,3 @@ tower-1-5
 `order: 5`
 
 ***
-
-You can see the solutions to it [here](./Pictures/).
