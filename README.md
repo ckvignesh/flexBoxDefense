@@ -12,6 +12,7 @@ But, here my aim has been:
 
 So, here are the solutions for it.
 
+Feel free to contribute to this Repo if you have better solutions. Read [this](./CONTRIBUTING.md) & [this](./LICENSE.md) before you proceed.
 ***
 
 
