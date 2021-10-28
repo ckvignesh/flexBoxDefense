@@ -159,4 +159,4 @@ tower-1-5
 
 ***
 
-<!-- You can see the solutions to it [here](./Pictures/). -->
+You can see the solutions to it [here](./Pictures/).
