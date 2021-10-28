@@ -130,13 +130,13 @@ tower-group-1  <br />
 `justify-content: space-around;`
 
 tower-1-2 <br />
-`order: 1`
+`order: 1;`
 
 tower-group-2 <br />
 `justify-content: space-around;`
 
 tower-2-1 <br />
-`order: 1`
+`order: 1;`
 
 ***
 **Level 11/12:**
@@ -164,22 +164,22 @@ tower-group-1  <br />
 `justify-content: space-between;`
 
 tower-1-1 <br />
-`order: 1`
+`order: 1;`
 
 tower-1-2 <br />
-`order: 2`
+`order: 2;`
 `align-self: center;`
 
 tower-1-3 <br />
 `align-self: center;`
-`order: 4`
+`order: 4;`
 
 tower-1-4 <br />
 `align-self: center;`
-`order: 3`
+`order: 3;`
 
 tower-1-5 <br />
 `align-self: flex-end;`
-`order: 5`
+`order: 5;`
 
 ***
